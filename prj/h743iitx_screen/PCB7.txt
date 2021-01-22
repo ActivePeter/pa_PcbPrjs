@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : G:\emmbed\ad\h743iitx\h743iitx_screen\PCB7.PcbDoc
+Date         : 2021/1/16
+Time         : 21:03:28
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 303
+    Connections routed, 303
+    Connections remaining, 0
+count : 4
